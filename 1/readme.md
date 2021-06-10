@@ -1,3 +1,3 @@
-nim         :1811500021
-nama        :indah wulandari
-kelompok    :ti6a
+nim         :1811500021 <br>
+nama        :indah wulandari <br>
+kelompok    :ti6a <br>
